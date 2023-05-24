@@ -1,0 +1,102 @@
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\PragimStackPracticeProject.dll.config
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\PragimStackPracticeProject.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\PragimStackPracticeProject.pdb
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csc.exe
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csc.exe.config
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csc.rsp
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csi.exe
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csi.rsp
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\vbc.exe
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\vbc.exe.config
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\vbc.rsp
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Antlr3.Runtime.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Newtonsoft.Json.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\System.Web.Optimization.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\WebGrease.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\System.Web.Optimization.xml
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Newtonsoft.Json.xml
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.csprojAssemblyReference.cache
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.csproj.CoreCompileInputs.cache
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.csproj.CopyComplete
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.dll
+C:\PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\PragimStackPracticeProject.dll.config
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\PragimStackPracticeProject.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\PragimStackPracticeProject.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csc.exe
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csc.rsp
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csi.exe
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\csi.rsp
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\vbc.exe
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\WebGrease.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.csproj.AssemblyReference.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.csproj.CopyComplete
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\PragimStackPracticeProject\PragimStackPracticeProject\obj\Debug\PragimStackPracticeProject.pdb
